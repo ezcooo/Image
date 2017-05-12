@@ -1,1 +1,13 @@
-test
+{
+    "name": "ezcoo/image",
+    "version": "1.0.0",
+    "require": {
+        
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
