@@ -1,8 +1,18 @@
 {
     "name": "ezcoo/image",
-    "version": "1.0.0",
+    "type":"image-extension",
+    "description":"image-extension",
+    "authors": [
+        {
+            "name": "Gorden",
+            "email": "gorden@ezcoo.cn"
+        }
+    ],
     "require": {
         
+    },
+    "autoload": {
+        "psr-4": {"ezcoo\\image\\": ""}
     },
     "repositories": {
         "packagist": {
